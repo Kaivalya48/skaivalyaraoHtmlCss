@@ -1,0 +1,30 @@
+body{ font-family: "Lucida Console", Courier, monospace; }   input{
+    background-color:rgb(0,162,213);   width: 40%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+#s{
+    background-color: rgb(15,157,88);
+    color: rgb(36,41,46);
+    font-weight: bold;
+
+}
+
+#e{
+    background-color: rgb(101, 117, 8);
+    color: rgb(230, 228, 222);
+    font-weight: bold;
+}
+
+#f{
+    background-color: rgb(7, 88, 134);
+    color: rgb(230, 228, 222);
+    font-weight: bold;
+}
+
+#g{
+    background-color: rgb(139, 6, 6);
+    color: rgb(230, 228, 222);
+    font-weight: bold;
+}
